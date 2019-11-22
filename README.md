@@ -1,6 +1,6 @@
 # RiOTDREAM www Page
 
-Currently are hoster those mirrors:
+Mirrors:
 
 - [Nepeta Dev mirror](https://riotdream.github.io/nepeta-mirror/)
 - [qwertyuiop iOS 9 JBME mirror](https://riotdream.github.io/jbme9-www/)
