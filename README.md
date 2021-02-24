@@ -2,7 +2,7 @@
 
 Mirrors:
 
-- [Nepeta Dev mirror](https://riotdream.github.io/nepeta-mirror/)
+- [Nepeta Dev up to iOS12 && A12 mirror](https://riotdream.github.io/nepeta-mirror/)
 - [qwertyuiop iOS 9 JBME mirror](https://riotdream.github.io/jbme9-www/)
 
 ## Welcome to GitHub Pages
